@@ -4,7 +4,7 @@ Pharmacology-LLM-test-set: A test set for a large language model focused on phar
 
   Large language models (LLM), including ChatGPT, have fundamentally transformed the knowledge query schemes and methods in pharmacology for pharmacologists, drug researchers, clinical drug researchers, and artificial intelligence researchers in pharmacology. They can conduct multi-round consultations and query pharmacological issues in a question-and-answer format. However, pharmacology is a particularly complex field of application. To better apply large language models to pharmacological practice, we propose a pharmacology test set composed of three types of pharmacological tasks: drug attribute queries, lead compound structure optimization, and summarization of trends and limitations. This test set serves as a benchmark for general or pharmacology-specific large models, covering a variety of application scenarios in pharmacology (Figure 1).
  
-  ![image](https://github.com/zyb1984/Pharmacology-LLM-test-set/blob/master/%E5%9B%BE010203.tiff)
+  ![image](https://github.com/zyb1984/Pharmacology-LLM-test-set/blob/master/%E5%9B%BE010203.jpg)
   
   Figure 1 Pharmacology-LLM-TestSet Construction and ChatGPT Benchmark Evaluation Process
 
